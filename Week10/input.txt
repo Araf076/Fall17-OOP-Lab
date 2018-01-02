@@ -1,0 +1,5 @@
+CookieMonster 10
+TickleMonster 15
+CerealKiller 14
+CookieMonster 12
+FatMonster 14
